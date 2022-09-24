@@ -1,0 +1,17 @@
+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
+
+git init
+git status
+git add .
+git commit -m "note"
+git log
+git stash
+git stash pop
+git stash clean
+git remote add origin https://github.com/SachinDabral/Daily-Workspace.git
+   attach the remote github url with the project folder
+git remote -v  
+   all the URL attached to the folder
+git push origin master
+   push the committed changes to the remote repository
+
