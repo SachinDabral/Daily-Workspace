@@ -1,3 +1,5 @@
+notes:
+----------
 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
 
 git init
@@ -14,4 +16,10 @@ git remote -v
    all the URL attached to the folder
 git push origin master
    push the committed changes to the remote repository
+git branch feature
+   never commit to the main branch
+git checkout feature
+   head, master,feature
+   head is pointer which always refer to the current branch
+
 
