@@ -21,5 +21,6 @@ git branch feature
 git checkout feature
    head, master,feature
    head is pointer which always refer to the current branch
+git merge feature
 
 
